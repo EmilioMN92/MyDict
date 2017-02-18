@@ -1,0 +1,2 @@
+# MyDict
+Personal project.
